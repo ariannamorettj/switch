@@ -1,0 +1,576 @@
+
+@font-face {
+    font-family: 'JMH Legajo';
+    src: url('JMHLegajo-BoldItalic.eot');
+    src: url('JMHLegajo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('JMHLegajo-BoldItalic.woff2') format('woff2'),
+        url('JMHLegajo-BoldItalic.woff') format('woff'),
+        url('JMHLegajo-BoldItalic.ttf') format('truetype'),
+        url('JMHLegajo-BoldItalic.svg#JMHLegajo-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JMH Legajo';
+    src: url('JMHLegajo-Bold.eot');
+    src: url('JMHLegajo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('JMHLegajo-Bold.woff2') format('woff2'),
+        url('JMHLegajo-Bold.woff') format('woff'),
+        url('JMHLegajo-Bold.ttf') format('truetype'),
+        url('JMHLegajo-Bold.svg#JMHLegajo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Galliard Std';
+    src: url('GalliardStd-Bold.eot');
+    src: url('GalliardStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GalliardStd-Bold.woff2') format('woff2'),
+        url('GalliardStd-Bold.woff') format('woff'),
+        url('GalliardStd-Bold.ttf') format('truetype'),
+        url('GalliardStd-Bold.svg#GalliardStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Monog';
+    src: url('Monog-Regular.eot');
+    src: url('Monog-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Monog-Regular.woff2') format('woff2'),
+        url('Monog-Regular.woff') format('woff'),
+        url('Monog-Regular.ttf') format('truetype'),
+        url('Monog-Regular.svg#Monog-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import url(//db.onlinewebfonts.com/c/92b12c0610cd214836a85033ec416777?family=1592+GLC+Garamond);
+
+@font-face {font-family: "1592 GLC Garamond"; src: url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.eot"); src: url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.woff") format("woff"), url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/92b12c0610cd214836a85033ec416777.svg#1592 GLC Garamond") format("svg"); }
+
+@font-face {
+    font-family: 'Grit Primer';
+    src: url('GritPrimer.eot');
+    src: url('GritPrimer.eot?#iefix') format('embedded-opentype'),
+        url('GritPrimer.woff2') format('woff2'),
+        url('GritPrimer.woff') format('woff'),
+        url('GritPrimer.ttf') format('truetype'),
+        url('GritPrimer.svg#GritPrimer') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'KisMiklos';
+    src: url('KisMiklos.eot');
+    src: url('KisMiklos.eot?#iefix') format('embedded-opentype'),
+        url('KisMiklos.woff2') format('woff2'),
+        url('KisMiklos.woff') format('woff'),
+        url('KisMiklos.ttf') format('truetype'),
+        url('KisMiklos.svg#KisMiklos') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'The Missus Hand';
+    src: url('TheMissusHand-Normal.eot');
+    src: url('TheMissusHand-Normal.eot?#iefix') format('embedded-opentype'),
+        url('TheMissusHand-Normal.woff2') format('woff2'),
+        url('TheMissusHand-Normal.woff') format('woff'),
+        url('TheMissusHand-Normal.ttf') format('truetype'),
+        url('TheMissusHand-Normal.svg#TheMissusHand-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
+
+@import url(//db.onlinewebfonts.com/c/e90bad7eca8a7239a1e12c72a9868723?family=1651AlchemyW00-Normal);
+
+@font-face {font-family: "1651AlchemyW00-Normal"; src: url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.eot"); src: url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.woff") format("woff"), url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.svg#1651AlchemyW00-Normal") format("svg"); }
+
+
+
+/*button { cursor: url('pointer.cur'), auto; }*/
+
+::selection {
+background: #940F04;
+color: white;
+}
+
+*{
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="15" height="30" style="font-size: 20px;"><text y="15">✵</text></svg>'), auto;
+}
+
+
+
+/*lettera fatta con generatore di font esterno - calligraphr, basata su font del 1500,garamond. La riquadratura era negessaria a dare forma quadrangolare alle miniature.l'immagine di sfondo è ripresa da mix di miniatura del sidereus nuncius, a cui sono stati sottratti il putto e il drago. per decorazione e come tributo,la miniatura è stata arricchita con il calco di una costellazione illustrata nel sidereus nuncius */
+
+
+/*.subtitle::first-letter{
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none; 
+    font-weight: bold;
+    font-style: normal;
+}
+
+.bio::first-letter{
+    font-size: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.biblioItem::first-letter{
+    font-size: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none;   
+}
+
+.pubnote::first-letter{
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none; 
+}
+
+#References p::first-letter{
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none; 
+}
+
+.byline::first-letter{
+    font-size: inherit;
+    font-size: inherit;
+    font-family: inherit;
+    float: none;
+    margin-top: auto; 
+    background-image: none;   
+}
+*/
+
+.myclass{
+    background-color: aqua !important;
+}
+
+
+figure figcaption{
+  float: left;
+  width: 14vw;
+  max-width: 14vw;
+  word-break:break-all;
+  line-height: 86%;
+  margin-right: -81%;
+  position: absolute;
+  transform: translateY(-100%) translateX(-115%);
+  font-family: "JMH Legajo";
+  font-weight: bold !important;
+  font-style: normal !important;
+  justify-self:end;
+  font-size: 2vw; 
+  margin-top: 0em;
+  padding-top: 0em;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+  padding-left: 1em;
+  padding-right: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  color: #666154;
+  background-color: transparent !important;
+}
+
+figure figcaption p{
+  font-family: "JMH Legajo";
+  font-weight: bold !important;
+  font-style: normal !important;
+  justify-self:end;
+  background-color: transparent !important;
+}
+
+figure{
+    padding:0px;
+    margin:0px;
+    border-color: #B0A686;
+    border-style:hidden;
+    background-color: #A79F86;
+    margin-bottom: 10v
+}
+img{
+    align-content: center;
+    display: block;
+    align-self: center;
+    width: 100%;
+    filter: grayscale(50%);
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+}
+
+
+/*img{
+      max-width: 45vw;
+      display: block;
+      border: 5vw solid transparent;
+      border-image: url(corniceluna2.jpg) 30 round stretch; 
+      align-content: center;
+      -webkit-filter:  opacity(90%) brightness(150%);    
+}
+*/
+
+
+
+body{
+    background-color: #E6DAC0;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    text-align: justify;
+    background-image: url(paginavuotasncancellata.jpg);
+    width: 65%;
+    margin-left: 21%;
+    margin-right: 14%;
+}
+
+
+p{
+    font-family: "JMH Legajo";
+    font-weight: bold;
+    font-style: italic;
+    backface-visibility: visible;
+    background-color: #FBF9C8;
+    font-size: 2vw;
+    padding: 0em;
+    margin-top: 0em;
+    color: #666154;
+    display: block;
+    margin-bottom: 0em;
+    
+}
+
+p:not(fist-child){
+    text-indent: 4%;
+}
+
+#References p::first-letter{
+    font-family: "JMH Legajo" !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+    backface-visibility: hidden!important;
+    background-color: #FBF9C8 !important;
+    font-size: 2vw !important;
+    background-image: none !important;
+    float: none !important;
+    margin-top:0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+aside p::first-letter{
+    font-family: "JMH Legajo" !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+    backface-visibility: hidden!important;
+    background-color: #FBF9C8 !important;
+    font-size: 2vw !important;
+    background-image: none !important;
+    float: none !important;
+    margin-top:0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    
+}
+
+aside p{
+    color: #8e1616 !important;
+    font-size: 2vw;
+    padding: 0em;
+    margin-top: 0em;
+    color: #8E1616;
+    display: block;
+    margin:4vw;
+    
+}
+
+
+#Footnotes p::first-letter{
+    font-family: "JMH Legajo" !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+    backface-visibility: hidden!important;
+    background-color: #FBF9C8 !important;
+    font-size: 2vw !important;
+    background-image: none !important;
+    float: none !important;
+    margin-top:0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+/*73 charact in a line, I have to indent 3. --> 3:73=x:100*/
+
+
+section:not(#Cover) p:first-of-type:first-letter{
+    font-size: 21vw; /*deve occupare un terzo della colonna di testo, quindi un terzo di 64, ovvero un valore compreso tra 21 e 22vw*/
+    float: left;
+    font-family: 'Monog';
+    font-weight: normal;
+    font-style: normal;
+    margin-top:2px;
+    margin-right: 4px;
+    margin-bottom: -1px;
+    background-clip:content-box;
+    background-image: url(monogrammabg.png);
+    padding-bottom:0px;
+    background-size: contain;
+}
+
+
+.mystyle{
+    background-color: aqua;
+}
+
+section:not(#Cover) p:not(:first-child){
+    text-indent: 4%;
+}
+
+table, td, th{
+    width: 100%;
+    border: 2px;
+    border-color: #937970;
+    border-collapse: collapse;   
+}
+
+table{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 100%;
+    border: 2px solid;
+    border-color: #937970;
+    border-collapse: collapse;
+    border-style: ridge;
+    align-content: flex-start;
+    font-family: "JMH Legajo";
+}
+
+table, td, th{
+    width: 100%;
+    border: 2px solid;
+    border-color: #937970;
+    border-collapse: collapse;   
+}
+
+thead{
+    background-color: #666154;
+}
+
+th{
+    color: #8E1616;
+    font-family: "1651AlchemyW00-Normal";
+    font-size: 2vw;
+}
+
+td{
+    font-size: 2vw;
+}
+
+table caption p{
+  float: left;
+  width: 14vw;
+  max-width: 14vw;
+  word-break:break-all;
+  line-height: 100%;
+  margin-right: -81%;
+  position: absolute;
+  transform: translateY(+100%) translateX(-115%);
+  font-family: "JMH Legajo";
+  font-weight: bold;
+  font-style: normal;
+  justify-self:end;
+  font-size: 2vw; 
+  margin-top: 0em;
+  padding-top: 0em;
+  margin-bottom: 0em;
+  padding-bottom: 0em;
+  padding-left: 1em;
+  padding-right: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  color: #666154;
+  background-color: none !important;
+  background-color: transparent;
+  padding-bottom: 1em;
+    
+}
+
+.num::first-letter{
+    font-family: "JMH Legajo" !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    font-size: 2vw !important; 
+    background-image: none !important;
+    float: none !important;
+    margin-top:0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    float: none !important;
+    margin-top:0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+
+
+a:hover{
+     cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="15" height="30" style="font-size: 20px;"><text y="15">✸</text></svg>'), auto;
+}
+    
+
+
+
+
+h1{
+    font-family: 'KisMiklos';
+    text-align: center;
+    font-size: 6vw;
+    text-transform: uppercase;
+    font-style: reset;
+    color: #8e1616;
+    margin-top: 2em;
+    border-top: 2em solid transparent;
+    display: block;
+    border-image: url(saggiatorecornice-removebg-preview.png) 174 round stretch;
+    letter-spacing: 10px; 
+    word-wrap: break-word;
+    padding-top: 10px;
+
+}
+
+
+a{
+    color: #8e1616;
+    text-decoration: none;
+}
+
+
+.subtitle{
+    text-align:center;
+    font-family: "KisMiklos";
+    font-weight: bold;
+    font-style: normal;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-size:4vw;
+    letter-spacing: 3px;
+    margin: 2vh;
+    padding: 0em;
+    border-bottom: none;
+    /*da rivedere*/
+}
+
+.byline{
+    text-align:center;
+    font-family: "KisMiklos";
+    font-weight: bold;
+    font-style: normal;
+    background-color: transparent;
+    font-size:5vw;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    padding: 1vh;
+    margin: 1vh;
+    border-bottom: none;
+}
+
+.byline::first-letter{
+    font-family: "P22MayflowerSmoothW00-SC" !important;
+    font-weight: bold !important;
+    font-style: normal !important;
+    background-color: transparent !important;
+    font-size:5vw !important;
+    letter-spacing: 5px !important;
+    text-transform: uppercase !important;
+    padding: 0em !important;
+    border-bottom: none !important;
+    background-image: none !important;
+    float: none !important;
+}
+
+
+section{
+    margin-bottom: 20vh;
+}
+
+section section{
+    margin-bottom: 7vh !important;
+}
+
+
+
+h2{
+    font-family: "Grit Primer";
+    text-align: center;
+    font-size: 4vw;
+    text-transform: uppercase;
+    color: #524D42;
+    margin-bottom: -1vh;
+}
+
+h3{
+    font-family: "Grit Primer";
+    text-align: center;
+    font-size: 2vw;
+    text-transform: uppercase;
+    color: #524D42;
+    margin-bottom: -1vh;
+}
+
+h4{
+    font-family: "Grit Primer";
+    text-align: center;
+    font-size: 2vw;
+    text-transform: uppercase;
+    color: #524D42;
+    margin-bottom: 1vh;
+}
+
+blockquote{
+    font-family: "JMH Legajo";
+    font-weight: bold;
+    font-style: italic;
+    backface-visibility: visible;
+    background-color: #FBF9C8;
+    font-size: 2vw;
+    padding: 0em;
+    margin-top: 0em;
+    color: #8E1616;
+    display: block;
+    margin:4vw;
+}
